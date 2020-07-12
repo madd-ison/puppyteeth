@@ -4,7 +4,7 @@ import Nav from './Nav';
 function Header() {
     return (
         <header>
-            <h1>PUPPY TEETH RECORDS</h1>
+            <img src="https://f4.bcbits.com/img/0006928202_10.jpg" alt="puppy-teeth-logo" height="600px" width="600px" />
             <Nav />
             <br />
             <p>a tiny, excited, non-profit cassette label</p>
