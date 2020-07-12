@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/puppyteeth/static/css/main.5e5c7de6.chunk.css",
+    "main.js": "/puppyteeth/static/js/main.ad22279c.chunk.js",
+    "main.js.map": "/puppyteeth/static/js/main.ad22279c.chunk.js.map",
+    "runtime-main.js": "/puppyteeth/static/js/runtime-main.2e2f1127.js",
+    "runtime-main.js.map": "/puppyteeth/static/js/runtime-main.2e2f1127.js.map",
+    "static/js/2.b96672d5.chunk.js": "/puppyteeth/static/js/2.b96672d5.chunk.js",
+    "static/js/2.b96672d5.chunk.js.map": "/puppyteeth/static/js/2.b96672d5.chunk.js.map",
+    "index.html": "/puppyteeth/index.html",
+    "precache-manifest.0bc5aae7663c90d6a4d9c4299b0f9dcb.js": "/puppyteeth/precache-manifest.0bc5aae7663c90d6a4d9c4299b0f9dcb.js",
+    "service-worker.js": "/puppyteeth/service-worker.js",
+    "static/css/main.5e5c7de6.chunk.css.map": "/puppyteeth/static/css/main.5e5c7de6.chunk.css.map",
+    "static/js/2.b96672d5.chunk.js.LICENSE.txt": "/puppyteeth/static/js/2.b96672d5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2e2f1127.js",
+    "static/js/2.b96672d5.chunk.js",
+    "static/css/main.5e5c7de6.chunk.css",
+    "static/js/main.ad22279c.chunk.js"
+  ]
+}
